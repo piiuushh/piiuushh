@@ -71,17 +71,6 @@ I'm a Data Science & Analytics student at **DTU, Delhi (formerly DCE)** obsessed
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-![Piyush's GitHub stats][(https://github-readme-stats.vercel.app/api?username=piiuushh&show_icons=true&hide_border=true&theme=default&hide=issues&count_private=true)](https://streak-stats.demolab.com?user=piiuushh&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piiuushh&layout=compact&hide_border=true&theme=default&langs_count=6)
-
-</div>
-
----
 
 ## What I'm currently building
 
