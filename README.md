@@ -16,7 +16,7 @@
 
 ## About me
 
-I'm a Data Science & Analytics student at **DTU, Delhi (Batch of 2026)** obsessed with building end-to-end ML systems — from raw data wrangling to deployed models. I care about work that ships, scales, and explains itself.
+I'm a Data Science & Analytics student at **DTU, Delhi (formerly DCE)** obsessed with building end-to-end ML systems — from raw data wrangling to deployed models. I care about work that ships, scales, and explains itself.
 
 - 🔍 Currently working on: sales forecasting & NLP sentiment pipelines
 - 📊 Domain focus: e-commerce analytics, business intelligence, customer behaviour
